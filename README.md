@@ -7,7 +7,7 @@ Esse projeto foi feito com intuito de testar aouth com o google e a biblioteca r
 ## ⚙️ Instalação
 ```
 # Abra um terminal e copie este repositório com o comando
-$ git clone 
+$ git clone https://github.com/maikonalexandre/loguin-with-google
 ```
 ```
 # Instale as dependências
