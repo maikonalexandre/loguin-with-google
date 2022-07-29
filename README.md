@@ -2,7 +2,7 @@
 ![Animação-pt14](https://user-images.githubusercontent.com/86725282/178112441-efda427b-edf1-41e3-b650-405a153f301c.gif)
 
 ## 📚 Informações sobre o projeto
-Esse projeto foi feito com intuito de testar aouth com o google e a biblioteca react-google-loguin
+Esse projeto foi feito com intuito de testar aouth com o google e a biblioteca react-google-loguin.
 
 ## ⚙️ Instalação
 ```
